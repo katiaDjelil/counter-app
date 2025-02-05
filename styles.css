@@ -58,6 +58,7 @@ img {
   border-radius: 5px;
 }
 
+/* targetting all the counter children */
 .counter > * {
   margin-bottom: 2rem;
 }
